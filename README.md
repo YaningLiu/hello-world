@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+Everything is possible, just do it.
